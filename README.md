@@ -3,7 +3,7 @@
 
 👀 I've been working as a front end developer for more than 18 years. 
 
-I spent 12 years in the United States Air Force and then another 14 years working for NASA at Johnson Space Center in Houston.  
+I spent 12 years in the United States Air Force and then another 14 years out at NASA.  
 I am currently working as a senior Designer/Developer for NTTdata's Experience Build Team.  You can see samples of my work at bluelinedesign.org/gallery
 
 📫 judith.harris@nttdata.com
